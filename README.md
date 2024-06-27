@@ -1,4 +1,4 @@
-# Vrinda Stores Annual Report 2022 using Excel
+# Vrinda Stores Annual Report using Excel
 
 Vrinda Stores wanted to create an annual sales report for 2022. 
 So that they can understand their customers & grow more sales in 2023.
